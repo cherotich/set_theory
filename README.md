@@ -1,4 +1,4 @@
-# set_theory
+# SET THEORY
 This repository comprises a walkthrough of set theory notebook together with the database that was used in the process.
 
 Practical examples of union,union all, intersect,except has been well elaborated in the notebook.
